@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ListePatisserie</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="macarons">
+        <item>MacaronChocolat</item>
+        <item>MacaronFramboise</item>
+        <item>MacaronCitron</item>
+        <item>MacaronPistache</item>
+        <item>MacaronOrange</item>
+        <item>MaraconPassion</item>
+        <item>MaraconCafe</item>
+        <item>MaraconFoieGras</item>
+        <item>MaraconMyrtille</item>
+        <item>MaraconVanille</item>
+        <item>Macarena</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Macaron au Chocolat</item>
+        <item>Macaron à la Framboise</item>
+        <item>Macaron au Citron</item>
+        <item>Macaron à la Pistache</item>
+        <item>Macaron à l Orange</item>
+        <item>Maracon au fruit de la Passion</item>
+        <item>Maracon au Cafe</item>
+        <item>Maracon de Foie Gras</item>
+        <item>Maracon au Myrtille</item>
+        <item>Maracon à la Vanille</item>
+        <item>Danse latine</item>
+    </string-array>
+
+</resources>
